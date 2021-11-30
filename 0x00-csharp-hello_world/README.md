@@ -73,3 +73,13 @@ General
   - Your code should be exactly 12 lines long
   - You are not allowed to use any loops or conditional statement
   - You have to use the variables str1 and str2 in your new line of code
+
+### [8. Print variables](./8-print_variables)
+* Complete this source code in order to print the given variables as 972 Mission Street.
+  - You can find the source code here
+  - Your code should be exactly 12 lines long
+  - You are not allowed to create new variables
+  - You are not allowed to edit existing variables
+  - The output of the script should be:
+    * 972 Mission Street
+    * followed by a new line
