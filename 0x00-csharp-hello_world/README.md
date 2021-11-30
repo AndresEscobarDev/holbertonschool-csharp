@@ -40,3 +40,19 @@ General
 ### [3. Hello, WriteLine](./3-writeline)
 * Write a C# script that prints exactly "Programming is like building a multilingual puzzle followed by a new line.
   - Use the method Console.WriteLine
+
+### [4. Print integer](./4-print_integer)
+* Complete this source code in order to print the integer stored in the variable number, followed by Mission Street followed by a new line.
+  - You can find the source code here
+  - Your code should be exactly 10 lines long
+  - The output of the script should be:
+    * the number, followed by Mission Street
+    * followed by a new line
+
+### [5. Print float](./5-print_float)
+* Complete this source code in order to print the float stored in the variable number with a precision of 2 digits.
+  - You can find the source code here
+  - Your script should be exactly 10 lines long
+  - The output of the script should be:
+    * Float: followed by the number with only 2 digits
+    * followed by a new line
