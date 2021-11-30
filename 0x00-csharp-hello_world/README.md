@@ -83,3 +83,15 @@ General
   - The output of the script should be:
     * 972 Mission Street
     * followed by a new line
+
+### [9. Print specifiers](./9-print_specifiers)
+* Complete this source code in order to print the given variables as in the result shown.
+  - You can find the source code here
+  - Your code should be exactly 12 lines long
+  - You are not allowed to create new variables
+  - The target locale is en-US.utf-8
+  - The output of the script should be:
+    * Percent: 75.53%
+    * followed by a new line
+    * followed by Currency: $98,765.43
+    * followed by a new line
