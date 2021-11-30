@@ -66,3 +66,10 @@ General
     * followed by the first 9 characters of str
     * followed by a new line
   - You are not allowed to use any loops or conditional statement
+
+### [7. Play with strings](./7-concat)
+* Complete this source code to print Welcome to Holberton School!
+  - You can find the source code here
+  - Your code should be exactly 12 lines long
+  - You are not allowed to use any loops or conditional statement
+  - You have to use the variables str1 and str2 in your new line of code
