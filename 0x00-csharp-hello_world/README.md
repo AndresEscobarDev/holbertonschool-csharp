@@ -56,3 +56,13 @@ General
   - The output of the script should be:
     * Float: followed by the number with only 2 digits
     * followed by a new line
+
+### [6. Print string](./6-print_string)
+* Complete this source code in order to print a string stored in the variable str 3 times, followed by its first 9 characters.
+  - You can find the source code here
+  - The output of the script should be:
+    * the value of str 3 times
+    * followed by a new line
+    * followed by the first 9 characters of str
+    * followed by a new line
+  - You are not allowed to use any loops or conditional statement
