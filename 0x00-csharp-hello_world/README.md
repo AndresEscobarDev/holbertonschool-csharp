@@ -112,3 +112,8 @@ General
   - You are not allowed to use any loops or conditional statements
   - You are not allowed to create new variables
   - You are not allowed to use string literals
+
+### [12. Hello, Error](./100-hello_error)
+* Write a C# script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19 followed by a new line.
+  - Your script should print to stderr
+  - Your script should exit with the status code 1
