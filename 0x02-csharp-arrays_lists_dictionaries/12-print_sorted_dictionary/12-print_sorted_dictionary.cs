@@ -9,7 +9,7 @@ class Dictionary
     keys.Sort();
     foreach (string key in keys)
     {
-      Console.WriteLine("{0} : {1}", key, myDict[key]);
+      Console.WriteLine("{0}: {1}", key, myDict[key]);
     }
   }
 }
